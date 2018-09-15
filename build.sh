@@ -1,0 +1,1 @@
+/home/jun/Desktop/OrangePiH6/scripts/build.sh
